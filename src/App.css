@@ -1,0 +1,77 @@
+.App {
+  text-align: left;
+  padding: 50px;
+  height: 100vh;
+  width: 100vw;
+
+}
+
+.rangeslider, .rangeslider-vertical {
+    position: absolute !important;
+    right: 80px !important;
+    height: 360px !important;
+    top: 100px;
+    border-radius: 5px;
+    border: 2px solid #d8d8d8;
+}
+
+.rangeslider-vertical .rangeslider__handle {
+    border-radius: 50px;
+    width: 20px !important;
+    height: 20px !important;
+    left: -6px !important;
+}
+
+.rangeslider-vertical .rangeslider__fill {
+    background-color: #d8d8d8 !important;
+}
+
+
+
+
+#switchGradientButton {
+    margin-top: 5vh;
+    padding: 10px 20px;
+    border: 3px solid white;
+    color: white;
+    background-color: Transparent;
+    font-weight: 700;
+    font-size: 1.5em;
+    text-align: left !important;
+    min-width: 30vw;
+    transition: 0.4s;
+}
+
+#switchGradientButton:hover, #angleChoices button:hover {
+    background-color: white;
+    color: #c8c8c8;
+}
+
+
+#colorsUsed {
+    color: white;
+    padding: 20px 20px;
+    border-left: 3px solid white;
+    font-size: .75em;
+    max-width: 20vw;
+    font-weight: bold;
+}
+
+
+#angleChoices button {
+    border: 3px solid white;
+        color: white;
+        background-color: Transparent;
+        margin: 10px 0px;
+        padding: 20px;
+        font-weight: bold;
+        border-radius: 50px;
+            transition: 0.4s;
+
+}
+
+#angleChoices {
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+}
