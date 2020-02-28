@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gradientgenerator/static/css/main.08ba9412.chunk.css",
+    "main.js": "/gradientgenerator/static/js/main.1776dc12.chunk.js",
+    "main.js.map": "/gradientgenerator/static/js/main.1776dc12.chunk.js.map",
+    "runtime-main.js": "/gradientgenerator/static/js/runtime-main.ae0b5f63.js",
+    "runtime-main.js.map": "/gradientgenerator/static/js/runtime-main.ae0b5f63.js.map",
+    "static/css/2.b8d7bdcb.chunk.css": "/gradientgenerator/static/css/2.b8d7bdcb.chunk.css",
+    "static/js/2.d45ad8f3.chunk.js": "/gradientgenerator/static/js/2.d45ad8f3.chunk.js",
+    "static/js/2.d45ad8f3.chunk.js.map": "/gradientgenerator/static/js/2.d45ad8f3.chunk.js.map",
+    "index.html": "/gradientgenerator/index.html",
+    "precache-manifest.44c98b1dd830056995cfd239c0169d85.js": "/gradientgenerator/precache-manifest.44c98b1dd830056995cfd239c0169d85.js",
+    "service-worker.js": "/gradientgenerator/service-worker.js",
+    "static/css/2.b8d7bdcb.chunk.css.map": "/gradientgenerator/static/css/2.b8d7bdcb.chunk.css.map",
+    "static/css/main.08ba9412.chunk.css.map": "/gradientgenerator/static/css/main.08ba9412.chunk.css.map",
+    "static/js/2.d45ad8f3.chunk.js.LICENSE": "/gradientgenerator/static/js/2.d45ad8f3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae0b5f63.js",
+    "static/css/2.b8d7bdcb.chunk.css",
+    "static/js/2.d45ad8f3.chunk.js",
+    "static/css/main.08ba9412.chunk.css",
+    "static/js/main.1776dc12.chunk.js"
+  ]
+}
