@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/19380276/148148743-3ed905b1-8cfb-41d1-9bb0-c87a33615f8f.png)
-
+[Visit site](https://dilemma16.github.io/GradientGenerator/) ❇️
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
